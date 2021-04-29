@@ -1,6 +1,6 @@
 {
-    "name": "dawn",
-    "description": "A Ghost theme",
+    "name": "daggry",
+    "description": "Et Ghost-tema",
     "version": "1.0.0",
     "engines": {
         "ghost": ">=4.0.0",
